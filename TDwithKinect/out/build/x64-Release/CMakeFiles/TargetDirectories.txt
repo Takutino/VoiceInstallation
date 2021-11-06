@@ -1,0 +1,3 @@
+C:/Users/takut/Downloads/TDwithKinect/out/build/x64-Release/CMakeFiles/CustomDAT.dir
+C:/Users/takut/Downloads/TDwithKinect/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Users/takut/Downloads/TDwithKinect/out/build/x64-Release/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/takut/Downloads/TouchDesigner-Plugin-Template/out/build/x64-Debug/CMakeFiles/CustomDAT.dir
+C:/Users/takut/Downloads/TouchDesigner-Plugin-Template/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/takut/Downloads/TouchDesigner-Plugin-Template/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

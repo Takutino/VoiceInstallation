@@ -1,1 +1,2 @@
-# VoiceInstallation
+What it is
+大学4年のプロジェクトで音源場所特定をするKinectを使った音のインスタレーションを作成するためのプロジェクトです。
